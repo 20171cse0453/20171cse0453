@@ -1,0 +1,10 @@
+p.col{border-style:inset;border-color:red;border-width:10px}
+p.colz{border-style:hidden;border-color:blue;border-width:20px}
+p.dot{border-style:dotted;border-top width:10px}
+p.double{border-style:double;border-color:rgb(0,255,0)}
+p.solid{border-style:solid;border-color:red}
+p.groove{border-style:groove;border-width:5px}
+p.ridge{border-style:ridge;border-color:rgb(33,55,66)}
+p.dashed{border-style:dashed;border-color:green;border-width:12px}
+p.outset{border-style:outset}
+p.none{border-style:none dashed;border-color:"blue""green";border-width:thick}
